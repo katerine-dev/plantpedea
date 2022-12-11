@@ -6,7 +6,7 @@ CREATE TABLE plants (
 	solar_affinity TEXT,
 	soil_type TEXT,
 	woter_amout TEXT,
-	days_to_collect INT
+	days_to_collect TEXT
 );
 
 CREATE TABLE user (
