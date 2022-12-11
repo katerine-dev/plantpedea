@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MACOS hidden files
+.DS_Store
+
+# Pycharm files
+.idea/
+
+# Local database files
+.dbdata
