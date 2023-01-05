@@ -1,0 +1,81 @@
+card_id,name,latin_name,solar_affinity,soil_type,water_amout,days_to_collect
+21,Abacaxi ,Ananas comosus,sol forte o dia todo ,arenoso,molhar se a superfíce estiver seca,9 meses a 1 ano
+22,Abóbora,Cururbita moschata,sol forte o dia todo ,arenoso,molhar se a superfíce estiver seca,3 a 5 meses
+23,Abobrinha,Cururbita pepo,sol forte o dia todo ,arenoso,molhar se a superfíce estiver seca,3 a 5 meses
+24,Acelga,Beta vulgaris subsp. vulgaris ,sol forte o dia todo ,arenoso,molhar se a superfíce estiver seca,2 meses
+25,Agrião,Nasturtium officinale,sol forte o dia todo ,argiloso,manter a terra sempre úmida,2 meses 
+26,Alecrim,Rosmarinus officinalis,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,2 meses 
+27,Alface,Lactuca sativa,4 horas de sol por dia,argiloso,manter a terra sempre úmida,2 a 4 meses 
+28,Alho,Allium sativum,sol forte o dia todo ,arenoso,molhar se a superfíce estiver seca,2 a 4 meses 
+29,Alho-poró,Allium ampeloprasum,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,4 meses
+30,Amor-perfeito,Viola x wittrockiana,4 horas de sol por dia,arenoso,molhar se a superfíce estiver seca,3 meses
+31,Arruda,Ruta graveolens,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,2 meses 
+32,Babosa,Aloe vera,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,4 meses
+33,Batata,Solanum tuberosum,sol forte o dia todo ,misto,secar bem entre uma rega e outra,4 a 6 meses
+34,Batata-doce,Ipomoea batatas,sol forte o dia todo ,argiloso,manter a terra sempre úmida,3 a 6 meses
+35,Beldroega,Portulaca oleracea,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,2 meses
+36,Berinjela,Solanum melongena,sol forte o dia todo ,argiloso,manter a terra sempre úmida,6 a 8 meses
+37,Beterraba,Beta vulgaris,4 horas de sol por dia,arenoso,molhar se a superfíce estiver seca,2 a 3 meses
+38,Boldinho,Plectranthus ornatus,sol forte o dia todo ,argiloso,secar bem entre uma rega e outra,2 meses
+39,Boldo,Plectranthus barbatus,sol forte o dia todo ,argiloso,manter a terra sempre úmida,2 meses
+40,Brócolis,Brassica oleracea var. italica,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,3 a 4 meses
+41,Calêndula,Calendula officinalis,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,3 meses
+42,Camomila,Chamomilla recutita,sol forte o dia todo ,arenoso,molhar se a superfíce estiver seca,3 meses
+43,Capim-limão,Cymbopogon citratus,sol forte o dia todo ,argiloso,manter a terra sempre úmida,3 meses
+44,Capuchinha,Tropaeolum majus,sol forte o dia todo ,argiloso,manter a terra sempre úmida,2 meses
+45,Cavalinha,Equisetum giganteum,sol forte o dia todo/4 horas de sol por dia,argiloso,manter a terra sempre úmida,3 meses
+46,Cebola,Allium cepa,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,6 meses
+47,Cebolinha,Allium fistulosum,sol forte o dia todo/4 horas de sol por dia,misto,molhar se a superfíce estiver seca,2 a 3 meses
+48,Cenoura,Daucus carola,sol forte o dia todo/4 horas de sol por dia,misto,molhar se a superfíce estiver seca,3 a 4 meses
+49,Chuchu,Sechium edule,sol forte o dia todo/4 horas de sol por dia,misto,manter a terra sempre úmida,3 meses
+50,Cidreira,Lippia alba,sol forte o dia todo ,argiloso,manter a terra sempre úmida,3 meses
+51,Coentro,Coriandrum sativum,"só claridade, sem sol direto",misto,secar bem entre uma rega e outra,2 meses
+52,Couve,Brassica oleracea var. acephala,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,1 mês e meio
+53,Couve-flor,Brassica oleracea var. botrytis,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,2 meses
+54,Crisântemo,Chrysanthemum coronarium,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,3 meses
+55,Crotalária,Crortalaria sp.,sol forte o dia todo ,arenoso,molhar se a superfíce estiver seca,6 meses
+56,Cúrcuma (açafrão-da-terra),Curcuma longa,4 horas de sol por dia,argiloso,molhar se a superfíce estiver seca,2 meses
+57,Dente-de-leão,Taraxacum officinale,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,2 meses
+58,Endívia,Cichorium endivia,4 horas de sol por dia,misto,molhar se a superfíce estiver seca,3 a 4 meses
+59,Erva-de-gato,Nepeta cataria,sol forte o dia todo ,misto,manter a terra sempre úmida,5 a 6 meses
+60,Erva-luísa,Aloysia triphylla,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,3 meses
+61,Ervilha,Pisum sativum,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,3 meses
+62,Espinafre,Tetragonia tetragonoides,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,2 meses
+63,Fava,Vicia faba,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,2 a 3 meses
+64,Feijão-de-corda (caupi),Vigna unguiculata,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,3 a 4 meses
+65,Flor-do-gurarujá,Turnera subulata,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,3 meses
+66,Gengibre,Zingiber officinale,4 horas de sol por dia,argiloso,molhar se a superfíce estiver seca,2 a 5 meses
+67,Gervão,Stachytarpheta cayennensis,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,3 meses
+68,Girassol,Helianthus annuus,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,2 meses
+69,Hortelã,Mentha crispa,sol forte o dia todo/4 horas de sol por dia,misto,molhar se a superfíce estiver seca,2 meses
+70,Inhame,Colocasia esculenta,"só claridade, sem sol direto",argiloso,manter a terra sempre úmida,7 meses
+71,Jambu,Acmella oleracea,sol forte o dia todo ,argiloso,molhar se a superfíce estiver seca,2 meses
+72,Jiló,Solanum gilo,sol forte o dia todo ,argiloso,molhar se a superfíce estiver seca,3 a 4 meses
+73,Lavanda,Lavandula dentata,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,2 meses
+74,Louro,Laurus nobilis,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,1 ano
+75,Madioca,Manihot esculenta,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,6 meses a 3 anos
+76,Mandioquinha (batata-baroa),Arracacia xanthotthiza,sol forte o dia todo ,misto,secar bem entre uma rega e outra,7 meses a 1 ano e meio
+77,Manjericão,Ocimum basilicum,sol forte o dia todo ,argiloso,molhar se a superfíce estiver seca,2 meses
+78,Manjerona,Origanum majorana,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,2 meses
+79,Maracujá,Passiflora alata,sol forte o dia todo/4 horas de sol por dia,arenoso,molhar se a superfíce estiver seca,6 a 9 meses
+80,Maria-sem-vergona ,Impatiens walleriana,"só claridade, sem sol direto",argiloso,molhar se a superfíce estiver seca,1 mês
+81,Melancia,Citrullus lanatus,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,3 a 4 meses
+82,Morango,Fragaria vesca,"só claridade, sem sol direto",arenoso,molhar se a superfíce estiver seca,2 meses
+83,Nabo,Brassica rapa,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,2 meses
+84,Orégano,Origanum vulgare,sol forte o dia todo ,arenoso,molhar se a superfíce estiver seca,2 meses
+85,Peixinho,Stachys byzabtina,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,2 meses
+86,Pepino,Cucumis sativus,sol forte o dia todo ,argiloso,molhar se a superfíce estiver seca,2 meses
+87,Pimenta,Capsicum sp.,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,2 a 4 meses
+88,Pimentão,Capiscum annuum,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,3 a 4 meses
+89,Quiabo,Abelmoschus esculentus,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,2 a 3 meses
+90,Rabanete,Raphanus sativus,sol forte o dia todo/4 horas de sol por dia,misto,molhar se a superfíce estiver seca,28 dias
+91,Repolho,Brassica oleracea var. capitata,sol forte o dia todo ,misto,molhar se a superfíce estiver seca,4 meses
+92,Rúcula,Eruca sativa,4 horas de sol por dia,misto,molhar se a superfíce estiver seca,2 meses
+93,Salsão (aipo),Apium graveolens var. dulce,sol forte o dia todo ,arenoso,molhar se a superfíce estiver seca,3 meses
+94,Salsilha,Petroselinum crispum,sol forte o dia todo/4 horas de sol por dia,arenoso,molhar se a superfíce estiver seca,1 a 2 meses
+95,Sálvia,Salvia officianalis,sol forte o dia todo/4 horas de sol por dia,arenoso,secar bem entre uma rega e outra,2 meses
+96,Tagetes,Tagetes erecta,sol forte o dia todo/4 horas de sol por dia,misto,molhar se a superfíce estiver seca,2 meses
+97,Tomate,Solanum lycopersicum,sol forte o dia todo/4 horas de sol por dia,misto,molhar se a superfíce estiver seca,3 a 4 meses
+98,Tomilho,Thymus vulgaris,sol forte o dia todo ,arenoso,secar bem entre uma rega e outra,2 meses
+99,Vagem,Phaseolus vulgaris,sol forte o dia todo ,argiloso,molhar se a superfíce estiver seca,2 a 3 meses
+100,Violeta-verdadeira,Viola odorata,"só claridade, sem sol direto",argiloso,manter a terra sempre úmida,2 a 3 meses
