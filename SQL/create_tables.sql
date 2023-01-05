@@ -1,11 +1,11 @@
 CREATE TABLE plants (
-	id INT AUTO_INCREMENT PRIMARY KEY,
-	card_id INT NOT NULL,
+	id UUID PRIMARY KEY DEFAULT(uuid()),
+	card_id INT NOT NULL UNIQUE,
 	name TEXT,
 	latin_name TEXT,
 	solar_affinity TEXT,
 	soil_type TEXT,
-	woter_amout TEXT,
+	water_amout TEXT,
 	days_to_collect TEXT
 );
 

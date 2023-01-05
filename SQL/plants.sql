@@ -4,7 +4,7 @@ INSERT INTO plants (
     latin_name,
     solar_affinity,
     soil_type,
-    woter_amout,
+    water_amout,
     days_to_collect
 )
 VALUES (
