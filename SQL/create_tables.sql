@@ -1,5 +1,5 @@
 CREATE TABLE plants (
-	id UUID NOT NULL PRIMARY KEY DEFAULT(uuid()),
+	id UUID PRIMARY KEY DEFAULT(uuid()),
 	card_id INT NOT NULL UNIQUE,
 	name TEXT,
 	latin_name TEXT,
